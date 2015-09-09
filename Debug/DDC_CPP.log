@@ -1,0 +1,10 @@
+﻿Build started 9/9/2015 11:05:08 AM.
+     1>Project "C:\Users\mjahanpo\Google Drive\Desktop\DDS\PA_DDS_exact\DDC_CPP.vcxproj" on node 2 (Build target(s)).
+     1>C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V120\Microsoft.CppBuild.targets(381,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (DDC_CPP.vcxproj, DDS_CPP.vcxproj, PA_DDS.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+     1>Link:
+         DDC_CPP.vcxproj -> C:\Users\mjahanpo\Google Drive\Desktop\DDS\PA_DDS_exact\Debug\PA_DDS_exact.exe
+     1>Done Building Project "C:\Users\mjahanpo\Google Drive\Desktop\DDS\PA_DDS_exact\DDC_CPP.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.52
